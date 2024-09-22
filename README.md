@@ -1,0 +1,2 @@
+# PIPTimer_Privacy
+PIPTimerのプライバシーポリシーを記載するページ
